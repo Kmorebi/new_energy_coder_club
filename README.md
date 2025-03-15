@@ -159,20 +159,25 @@ Thank you sincerely to the following partners and developers. It is your outstan
 | 6 | 25  | 24 财一    | 财务组长        | 李晨 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
 | 7 | 25  | 24 航4     | 例会主持组长    | 李一楠 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
 | 8 | 25  | 24汉二     | 赛季筹备/宣传  | 殷子豪  |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
-| 9 | 25  | 24车辆二   | 队长          | 刘英淇   |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
+| 9 | 25  | 24车辆二   | 队长          | 刘英淇   |<img src="https://img.shields.io/badge/电控-bule" alt="License"><img src="https://img.shields.io/badge/PPT-bule" alt="License"><img src="https://img.shields.io/badge/上位机-bule" alt="License">|
 |10 | 25  | 24航4      | 成员           | 陈家辉 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
 |11 | 25  | 23光电二   | 电控组组长     | 杨鑫海 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
-|12 | 25  | 23光电二   | 物联网         | 崔正阳 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
-|13 | 25  | 22机二     | 机械组组长     | 周鹏程 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
+|12 | 25  | 23光电二   | 物联网         | 崔正阳 |<img src="https://img.shields.io/badge/上位机-bule" alt="License"><img src="https://img.shields.io/badge/数据网关-bule" alt="License"><img src="https://img.shields.io/badge/嵌入式-bule" alt="License">|
+|13 | 25  | 22机二     | 机械组组长     | 周鹏程 |<img src="https://img.shields.io/badge/机械-bule" alt="License">|
 |14 | 25  | 22信二     | 成员          | 许珑译 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
 |15 | 25  | 24大数据二  | 采购          | 郑绍恺 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
 |16 | 25  | 24数学二   | 成员           | 王子楚 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
 |17 | 25  | 24车辆二   | 成员          | 朱迪 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
 |18 | 25  | 24视传     | 成员          | 张岩皓 |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
 |19 | 25  | 23光电二   | 硬件组组长    |单广志  |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
-|20 | 25  | 23机二     | 机械组组长      |刘锦和  |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
-|21 | 25  | 23机三     | 成员            |陈恺鑫  |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
-
+|20 | 25  | 23机二     | 机械组组长      |刘锦和  |<img src="https://img.shields.io/badge/机械-bule" alt="License">|
+|21 | 25  | 23机三     | 成员            |陈恺鑫  |<img src="https://img.shields.io/badge/机械-bule" alt="License">|
+|22 | 25  | 22能源二   | 成员            |吴洛斌  |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
+|23 | 25  | 22测控一   | 成员            |张雪迎  |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
+|24 | 25  | 23机二     | 成员            |王栏霖  |<img src="https://img.shields.io/badge/机械-bule" alt="License">|
+|25 | 25  | 24机四     | 成员            |方婷    |<img src="https://img.shields.io/badge/机械-bule" alt="License">|
+|26 | 25  | 24车辆二   | 成员            |牛良旭  |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
+|27 | 25  | 24车辆二   | 成员            |秦灿    |<img src="https://img.shields.io/badge/填写区-bule" alt="License">|
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
